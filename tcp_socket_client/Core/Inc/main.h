@@ -177,6 +177,7 @@ extern void initialise_monitor_handles();
 /* USER CODE BEGIN Private defines */
 #define USE_TCP_CLIENT_PRINTF 0
 #define USE_TCP_SERVER_PRINTF 0
+#define USE_UDP_SERVER_PRINTF 1
 #define USE_HTTP_DEBUG_PRINTF 0
 /* USER CODE END Private defines */
 
